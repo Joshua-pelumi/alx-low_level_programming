@@ -1,1 +1,1 @@
-This repository contains codes in low level programming language C
+This repository contains project 0x18-dynamic_libraries
